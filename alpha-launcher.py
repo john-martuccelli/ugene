@@ -12,10 +12,7 @@ gpgcheck=0'
 call(['yum', 'clean all'])
 call (['yum'], 'info ugene')
 
-##yum install ugene
-
-#not workng yet
-#need to write text to vim file then save
-#might be more efficient if people just create the vim file,
-#it is easier, 
-#if people cant do it thats a bad sign
+f = open("ugene.repo", "name=ugene")
+f.write("baseurl=https://raw.githubusercontent.com/jmartuccelli/ugene/master/")
+f.write('enabled=1'
+f.write('gpgcheck=0')
