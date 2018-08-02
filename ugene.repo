@@ -1,0 +1,5 @@
+[ugene]
+name=ugene
+baseurl=https://raw.githubusercontent.com/jmartuccelli/ugene/master/
+enabled=1
+gpgcheck=0
