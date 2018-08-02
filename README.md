@@ -12,3 +12,5 @@ popd
 
 Qt 5 needed to be installed for ui, otherwise will only run on command line
 
+yum install qt
+
