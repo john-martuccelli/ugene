@@ -4,3 +4,5 @@ call(["vim", "/etc/yum.repos.d/ugene.repo"])
 call(['yum', 'clean all'])
 call (['yum'], 'info ugene')
 
+#not workng yet
+#need to write text to vim file then save
