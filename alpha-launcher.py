@@ -14,5 +14,5 @@ call (['yum'], 'info ugene')
 
 f = open("ugene.repo", "name=ugene")
 f.write("baseurl=https://raw.githubusercontent.com/jmartuccelli/ugene/master/")
-f.write('enabled=1'
+f.write('enabled=1')
 f.write('gpgcheck=0')
