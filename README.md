@@ -1,4 +1,5 @@
 # ugene f19 port to rhel 7
+# note to self don't touch repo data
 path file above
 
 From terminal, vim /etc/yum.repos.d/ugene.repo
