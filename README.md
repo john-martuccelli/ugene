@@ -8,5 +8,6 @@ copy file path in and save file
 yum clean all
 
 yum info ugene
-#
-#
+
+Qt 5 needed to be installed for ui, otherwise will only run on command line
+
