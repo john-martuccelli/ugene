@@ -9,5 +9,5 @@ f.write ('enabled=1')
 f.write ('gpgcheck=0')
 sys.exit()
 
-
+#useless
 #thanks jbieren for the aneurysm
