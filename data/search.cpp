@@ -1,4 +1,4 @@
-workflow local-blast{
+/* workflow local-blast{
 
     read-sequence {
         type:read-sequence;
