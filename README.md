@@ -17,5 +17,4 @@ Qt (<4.8) needed (5.8 Recommended)
  Fedora:       `sudo yum install qt5-qtscript-devel qt5-qtbase-devel qt5-qtsvg-devel qt5-linguist qt5-qtwebkit-devel gcc-c++ redhat-rpm-config mesa-libGLU-devel`
   
   
-Will run on mac
 
